@@ -15,4 +15,4 @@ sequencial**. -
 
  Ferramentas & Tecnologias - Linux / Terminal - Git & GitHub - Markdown 
 
- Como me encontrar - Email: [eduardaoliveira2709@gmail.com] - LinkedIn: [linkedin.com/in/eduarda-oliveira-282359173/]
+ Como me encontrar - Email: [eduardaoliveira2709@gmail.com] - LinkedIn: [www.linkedin.com/in/eduarda-oliveira-282359173/]
